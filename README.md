@@ -44,7 +44,7 @@
 
   <h2>Find me elsewhere</h2>
   <p>
-    💼 <a href="https://www.linkedin.com/in/will-staton-239081156/" target="_blank" rel="noreferrer">Connect with me on LinkedIn</a><br>
-    🌐 <a href="https://webdesignandseocompany.co.uk/meet-the-team/meet-the-team-will-staton" target="_blank" rel="noreferrer">WDSEO – Web Design &amp; SEO Company</a>
+    💼 <a href="https://www.linkedin.com/in/will-staton-239081156/" target="__blank" rel="noreferrer">Connect with me on LinkedIn</a><br>
+    🌐 <a href="https://webdesignandseocompany.co.uk/meet-the-team/meet-the-team-will-staton" target="__blank" rel="noreferrer">WDSEO – Web Design &amp; SEO Company</a>
   </p>
 </section>
